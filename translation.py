@@ -9,7 +9,6 @@ class Translation(object):
     FORMAT_SELECTION = "<b>✅Select the desired format: <a href='{}'>file size might be approximate.</a> \n🧭If you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n😎You can use /delthumbnail to delete the auto-generated thumbnail.</b>"
     SET_CUSTOM_USERNAME_PASSWORD = """<b>🤠If you want to download premium videos, provide in the following format:
 URL | filename | username | password <b>"""
-    DOWNLOAD_START = "⏳"
     UPLOAD_START = "💫"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>😎Mission Accomplished</b>"
