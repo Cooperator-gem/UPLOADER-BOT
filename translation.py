@@ -9,8 +9,8 @@ class Translation(object):
     FORMAT_SELECTION = "<b>Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /delthumbnail to delete the auto-generated thumbnail.</b>"
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    DOWNLOAD_START = "<b>📥Downloading Now...</b>"
-    UPLOAD_START = "<b>Processing the file...</b>"
+    DOWNLOAD_START = "⏳"
+    UPLOAD_START = "💫"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>😎Mission Accomplished</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>🍿Downloaded and Uploaded the file.\n🤠Now Enjoy.\n@JikURLBot</b>"
@@ -27,7 +27,7 @@ URL | filename | username | password"""
 🧯DFile - Give File with Screenshots
 🎸Video - Give File as video without Screenshots
 🛰️File - Give File without Screenshots
-\n\n🎲If the Bot didn't respond,
+\n\n🎲If the Bot didn't respond, 
 🌀Contact: @MalluBhai</b>"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
