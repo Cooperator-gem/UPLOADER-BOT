@@ -88,8 +88,8 @@ async def youtube_dl_call_back(bot, update):
                 o = entity.offset
                 l = entity.length
                 youtube_dl_url = youtube_dl_url[o:o + l]
-    await bot.edit_message_text(
-        text=Translation.DOWNLOAD_START,
+    await bot.edit_message_sticker(
+        sticker="CAACAgEAAx0CUbIxHwACMjxhngMAASovNVo0OXmb7z1QFfhRfv0AAkoCAAJPr3hEIGT557dUCBkeBA",
         chat_id=update.message.chat.id,
         message_id=update.message.message_id
     )
