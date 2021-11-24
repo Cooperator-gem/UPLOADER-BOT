@@ -72,8 +72,8 @@ async def ddl_call_back(bot, update):
     mention = user["mention"]
     description = Translation.CUSTOM_CAPTION_UL_FILE.format(mention)
     start = datetime.now()
-    await bot.edit_sticker(
-        sticker=Translation.DOWNLOAD_START,
+    await bot.edit_message_text(
+        text=Translation.DOWNLOAD_START,
         chat_id=update.message.chat.id,
         message_id=update.message.message_id
     )
