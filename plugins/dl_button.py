@@ -230,7 +230,7 @@ async def download_coroutine(bot, session, url, file_name, chat_id, message_id, 
         await bot.edit_message_text(
             chat_id,
             message_id,
-            text="""Initiating Download
+            text="""**📥 INTIATING DOWNLOAD 📥**
 <b>URL🔗:</b> {}
 <b>File Size💾:</b> {}""".format(url, humanbytes(total_length))
         )
@@ -251,7 +251,7 @@ async def download_coroutine(bot, session, url, file_name, chat_id, message_id, 
                         (total_length - downloaded) / speed) * 1000
                     estimated_total_time = elapsed_time + time_to_completion
                     try:
-                        current_message = """**Download Status**
+                        current_message = """**📥 DOWNLOADING STATUS 📥**
 <b>URL🔗:</b> {}
 <b>File Size💾:</b> {}
 <b>Downloaded⬇️:</b> {}
