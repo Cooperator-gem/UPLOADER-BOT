@@ -72,7 +72,7 @@ async def youtube_dl_call_back(bot, update):
         if youtube_dl_url is not None:
             youtube_dl_url = youtube_dl_url.strip()
         if custom_file_name is not None:
-            custom_file_name = custom_file_name[:60]
+            custom_file_name = custom_file_name.strip()
         # https://stackoverflow.com/a/761825/4723940
         if youtube_dl_username is not None:
             youtube_dl_username = youtube_dl_username.strip()
