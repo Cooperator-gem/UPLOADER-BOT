@@ -27,14 +27,22 @@ URL | filename | username | password </b>"""
     HELP_USER = """<b>🎯It's very simple to use me.\n🎨Just follow the steps.
     
 🧁Send url (Link|New Name+Extension).
+
 🧭Send Custom Thumbnail [Optional]
+
 🧰Select the desired Button.
+
 \n🎰SVideo - Give File as video with Screenshots
+
 🧯DFile - Give File with Screenshots
+
 🎸Video - Give File as video without Screenshots
+
 🛰️File - Give File without Screenshots
+
 \n\n🎲If the Bot didn't respond, 
-🌀Contact: @MalluBhai
+
+🌀Contact: @FILMWORLDOFFICIA
 \n</b>"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
