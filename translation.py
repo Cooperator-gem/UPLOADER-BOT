@@ -3,6 +3,8 @@ class Translation(object):
     
 🕹I'm URL X Uploader Bot📌!, Made by @FILMWORLDOFFICIA 
 
+<b>This bot is exclusively made for [This channel](https://t.me/joinchat/-3Vjw61udNM3OWU9)</b>
+
 🎲I can Upload URL links as Telegram Files, Documents or audio. 
 
 🍿Send me any Direct Download link.
@@ -12,7 +14,7 @@ class Translation(object):
 😎I can upload to telegram as File or Video or Audio(if supported) format.
 Click /help for more details!
 
-<b>Join [Here](https://t.me/joinchat/-3Vjw61udNM3OWU9)</b>
+Movie channel🎥 - @FILMWORofficial
 \n</b>"""
     FORMAT_SELECTION = "<b>✅Select the desired format: <a href='{}'>file size might be approximate.</a> \n🧭If you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n😎You can use /delthumbnail to delete the auto-generated thumbnail.</b>"
     SET_CUSTOM_USERNAME_PASSWORD = """<b>🤠If you want to download premium videos, provide in the following format:
