@@ -54,7 +54,7 @@ async def start(bot, update):
                     InlineKeyboardButton(
                         "Source code ⚡", url="https://t.me/kurachkanjiedukkatte"
                     ),
-                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/FilmClubChannel"),
+                    InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/joinchat/VtTZc5al3Vt0te9_"),
                 ],
                 [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/FILMWORLDOFFICIA")],
             ]
