@@ -1,9 +1,13 @@
 class Translation(object):
     START_TEXT = """<b>Hello {},
 🕹I'm URL X Uploader Bot📌!, Made by @FILMWORLDOFFICIA 
+
 🎲I can Upload URL links as Telegram Files, Documents or audio. 
-🍿Send me any Direct Download link. 
+
+🍿Send me any Direct Download link.
+
 🎯Send Only One Link at a Time.
+
 😎I can upload to telegram as File or Video or Audio(if supported) format.
 Click /help for more details!
 \n</b>"""
