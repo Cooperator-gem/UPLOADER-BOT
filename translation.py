@@ -11,6 +11,7 @@ class Translation(object):
 
 😎I can upload to telegram as File or Video or Audio(if supported) format.
 Click /help for more details!
+
 𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐝𝐞𝐭𝐚𝐢𝐥𝐬 𝐣𝐨𝐢𝐧 𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 - https://t.me/joinchat/-3Vjw61udNM3OWU9
 \n</b>"""
     FORMAT_SELECTION = "<b>✅Select the desired format: <a href='{}'>file size might be approximate.</a> \n🧭If you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n😎You can use /delthumbnail to delete the auto-generated thumbnail.</b>"
@@ -33,7 +34,7 @@ URL | filename | username | password </b>"""
 
 🧰Select the desired Button.
 
-\n🎰SVideo - Give File as video with Screenshots
+🎰SVideo - Give File as video with Screenshots
 
 🧯DFile - Give File with Screenshots
 
@@ -41,7 +42,7 @@ URL | filename | username | password </b>"""
 
 🛰️File - Give File without Screenshots
 
-\n\n🎲If the Bot didn't respond, 
+🎲If the Bot didn't respond, 
 
 🌀Contact: @FILMWORLDOFFICIA
 \n</b>"""
