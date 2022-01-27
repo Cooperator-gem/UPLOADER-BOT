@@ -56,7 +56,7 @@ async def start(bot, update):
                     ),
                     InlineKeyboardButton("Project Channel 👨🏻‍💻", url="https://t.me/FilmClubChannel"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/MalluBhai")],
+                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/FILMWORLDOFFICIA")],
             ]
         ),
         reply_to_message_id=update.message_id
