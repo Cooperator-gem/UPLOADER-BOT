@@ -3,7 +3,9 @@ class Translation(object):
     
 🕹I'm URL X Uploader Bot📌!, Made by @FILMWORLDOFFICIA 
 
-<b>This bot is exclusively made for [This channel](https://t.me/joinchat/-3Vjw61udNM3OWU9)</b>
+🌀This bot is owned and maintained by @FILMWORofficial
+
+💫This is a public bot so any one can use this
 
 🎲I can Upload URL links as Telegram Files, Documents or audio. 
 
